@@ -1,0 +1,59 @@
+body {
+    background-color: rgb(8, 8, 55);
+}
+
+.contener {
+    width: 600px;
+    margin: auto;
+    text-align: center;
+}
+
+p {
+    background-color: rgba(255, 255, 255, 0.1);
+    color: #d1d1d1;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 14px;
+    padding: 10px;
+    border-radius: 999px;
+    display: inline-block;
+
+
+
+
+
+}
+
+h1 {
+
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+    color: white;
+    font-size: 30px;
+
+}
+
+h2 {
+
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+    color: white;
+    font-size: 30px;
+}
+
+.p2 {
+
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: gray;
+    font-size: 15px;
+}
+
+button {
+    background-color: rgb(120, 26, 197);
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 50px;
+
+}
